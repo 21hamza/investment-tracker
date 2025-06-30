@@ -91,8 +91,8 @@ Fetches the current price for any stock (e.g. `/price/TSLA`)
 
 Made by Hamza Alam
 
-- [GitHub](https://github.com/your-username)
-- [LinkedIn](https://linkedin.com/in/your-link)
+- [GitHub](https://github.com/21hamza)
+- [LinkedIn](www.linkedin.com/in/hamza-alam005)
 
 ---
 
