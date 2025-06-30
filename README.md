@@ -1,23 +1,23 @@
 
-# 📊 Investment Tracker API
+#  Investment Tracker API
 
 A backend-only stock investment tracker built with **FastAPI** and **yfinance**, designed to calculate real-time **profit/loss** on stock investments.
 
-> 🔧 Built as a showcase project for backend development and finance using Python.
+>  Built as a showcase project for backend development and finance using Python.
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 📈 Add stock investments with date and amount
-- 💹 Get current live stock price using `yfinance`
-- 💰 Calculates real-time profit/loss per investment
-- 🧠 Auto-validated request structure using Pydantic
-- 🧪 Swagger UI to test all endpoints instantly (`/docs`)
+-  Add stock investments with date and amount
+-  Get current live stock price using `yfinance`
+-  Calculates real-time profit/loss per investment
+-  Auto-validated request structure using Pydantic
+-  Swagger UI to test all endpoints instantly (`/docs`)
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙ Tech Stack
 
 - [FastAPI](https://fastapi.tiangolo.com/)
 - Python 3.9+
@@ -26,7 +26,7 @@ A backend-only stock investment tracker built with **FastAPI** and **yfinance**,
 
 ---
 
-## 🧪 Installation & Run Locally
+##  Installation & Run Locally
 
 1. **Clone this repo:**
 
@@ -53,7 +53,7 @@ uvicorn main:app --reload
 
 ---
 
-## 🔁 API Endpoints
+##  API Endpoints
 
 ### `POST /invest`
 
@@ -87,16 +87,16 @@ Fetches the current price for any stock (e.g. `/price/TSLA`)
 
 ---
 
-## 👤 Author
+ Author
 
-Made with ❤️ by **Hamza Alam**
+Made by Hamza Alam
 
 - [GitHub](https://github.com/your-username)
 - [LinkedIn](https://linkedin.com/in/your-link)
 
 ---
 
-## 🏁 Future Improvements
+##  Future Improvements/ADD-ONS
 
 - Connect to SQLite or PostgreSQL for real data storage
 - Add authentication for users
